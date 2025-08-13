@@ -1,0 +1,31 @@
+# ==================================
+#  Core Flask & Web Server
+# ==================================
+Flask
+Flask-Cors
+Flask-SocketIO
+gunicorn
+
+# ==================================
+#  Database & Migrations
+# ==================================
+Flask-SQLAlchemy
+Flask-Migrate
+
+# ==================================
+#  Authentication & Security
+# ==================================
+Flask-Login
+Flask-Bcrypt
+PyJWT
+cryptography
+
+# ==================================
+#  API Clients & Utilities
+# ==================================
+python-dotenv
+requests
+google-generativeai
+openai
+notion-client
+PyGithub
