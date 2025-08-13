@@ -33,7 +33,7 @@ O pacote `lex-flow-ubuntu-install.tar.gz` contém:
 -   `lex-flow-backend/`: Diretório do backend (API Flask).
 -   `install-ubuntu.sh`: Script de instalação automatizado.
 -   `uninstall-ubuntu.sh`: Script de desinstalação.
--   `README.md`: Este arquivo.
+-   `README-UBUNTU-INSTALL.md`: Este arquivo.
 
 ## ⚙️ Passos para Instalação
 
