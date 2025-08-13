@@ -23,3 +23,9 @@ build/
 # Arquivos de log e sistema operacional
 *.log
 .DS_Store
+
+# Ignorar arquivos compactados e backups
+*.zip
+*.tar.gz
+*.rar
+*.7z
